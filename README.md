@@ -1,6 +1,25 @@
 # S<sup>2</sup>-Differential Feature Awareness Network for Hyperspectral Image Fusion(SSDAN)
 ![Language](https://img.shields.io/badge/language-python-brightgreen) 
 
+![Venue](https://img.shields.io/badge/IEEE%20TGRS-2026-00629B)
+
+> **Published in** *IEEE Transactions on Geoscience and Remote Sensing*, vol. 64, Art. no. 5507410, 2026.
+> DOI: [10.1109/TGRS.2026.3671284](https://doi.org/10.1109/TGRS.2026.3671284)
+
+If you use this code, please cite:
+
+```bibtex
+@article{song2026ssdan,
+  title   = {S$^2$-Differential Feature Awareness Network for Hyperspectral Image Fusion},
+  author  = {Song, Qiya and Guo, Shuo and Yang, Tao and Sun, Bin and Dian, Renwei and Li, Shutao},
+  journal = {IEEE Transactions on Geoscience and Remote Sensing},
+  volume  = {64},
+  year    = {2026},
+  doi     = {10.1109/TGRS.2026.3671284}
+}
+```
+
+
 Our model are trained on a NVIDIA A800-SXM4-80GB GPU.
 
 <div align="center">
